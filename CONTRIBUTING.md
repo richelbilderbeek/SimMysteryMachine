@@ -31,7 +31,7 @@ The Stroustrup/GNU style, e.g.:
 * member variables have the `m_` prefix
 * static member variables have the `sm_` prefix
 
-```
+```cpp
 void do_it()
 {
   int some_thing;
