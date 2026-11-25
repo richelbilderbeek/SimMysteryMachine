@@ -2,34 +2,34 @@
 
 Awesome that you are reading this!
 
- * For questions, you can create an Issue
- * Code changes go via Pull Requests
+* For questions, you can create an Issue
+* Code changes go via Pull Requests
 
 ## Branching policy
 
- * The `master` branch should always build successfully
- * The `develop` branch is used for development
+* The `master` branch should always build successfully
+* The `develop` branch is used for development
 
 ## Submitting code
 
 Submitted code should follow these quality guidelines:
 
- * All tests pass cleanly/silently
- * Code coverage above 95%
- * OCLint must be clean
+* All tests pass cleanly/silently
+* Code coverage above 95%
+* OCLint must be clean
 
 These are all checked by Travis CI when submitting
-a Pull Request. 
+a Pull Request.
 
 
 ## Coding standard
 
 The Stroustrup/GNU style, e.g.:
 
- * Two spaces, no tabs
- * snake_case in variable, function and class names
- * member variables have the `m_` prefix
- * static member variables have the `sm_` prefix
+* Two spaces, no tabs
+* snake_case in variable, function and class names
+* member variables have the `m_` prefix
+* static member variables have the `sm_` prefix
 
 ```
 void do_it()
@@ -52,4 +52,5 @@ class my_class
   static int sm_count;
 };
 ```
+
 Then just follow OCLint
