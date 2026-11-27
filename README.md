@@ -1,10 +1,11 @@
 # SimMysteryMachine
 
+[![Codecov](https://codecov.io/gh/richelbilderbeek/SimMysteryMachine/branch/main/graph/badge.svg)](https://codecov.io/gh/richelbilderbeek/SimMysteryMachine)
+
 [Go to the nicely rendered
 website](https://richelbilderbeek.github.io/SimMysteryMachine/).
 
 [![Build
-Status](https://travis-ci.org/richelbilderbeek/SimMysteryMachine.svg?branch=master)](https://travis-ci.org/richelbilderbeek/SimMysteryMachine)
 
 Simulation of my MysteryMachine, written in C++ and visualized with Qt and Wt
 
